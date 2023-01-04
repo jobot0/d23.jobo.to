@@ -2,8 +2,8 @@
 title = "Day 1"
 date = 2023-01-01
 [taxonomies]
-categories=["January", "Wild lands"]
-tags=["Jungle", "Wild lands"]
+categories=["January", "Wild lands", "Weak magic"]
+tags=["Jungle", "Wild lands", "Weak magic"]
 +++
 
 # Day 1 - 2023-01-01 - Jungle
