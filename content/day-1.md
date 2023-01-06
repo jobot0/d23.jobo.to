@@ -8,9 +8,10 @@ tags=["Jungle", "Wild lands", "Weak magic"]
 
 ## Linked hexes
 
-- [Day 2 - 2023-01-02 - Inhabited Mesa](https://d23.jobo.to/day-2)
+- [Day 2 - 2023-01-02 - Inhabited Mesa](../day-2)
+- [Day 6 - 2023-01-06 - River & Lake](../day-6)
 
 ## What's going on here?
 > A small refreshing part of the forest. Humidity seems tolerables but it seems to be the nest of insects and other rodents. A fairytale says an hag is coming sometimes to prepare her vile potions.
 
-![day1](../IMG_0125.jpg)
+![day1](../day1.jpeg)
