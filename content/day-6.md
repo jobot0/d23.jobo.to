@@ -10,6 +10,7 @@ tags=["River", "Lake", "Wild lands", "Nomads", "Weak magic"]
 - [Day 1 - 2023-01-01 - Jungle](../day-1)
 - [Day 2 - 2023-01-02 - Inhabited Mesa](../day-2)
 - [Day 3 - 2023-01-03 - Inub, town in ruins](../day-3)
+- [Day 7 - 2023-01-07 - Swamps](../day-3)
 
 
 ## What's going on here?
