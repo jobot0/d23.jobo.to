@@ -15,5 +15,5 @@ tags=["Ralakoï", "Village", "Hills" , "Fields", "Medium magic"]
 > The lake below also brings quite a lot of fish. A legend says a underground water source is the house of beast from ancient times, beings half-men half-frogs...
 
 
-![day8](../day8.jpeg)
+![day9](../day9.jpeg)
 
