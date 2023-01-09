@@ -9,6 +9,7 @@ tags=["Mesa", "Wild lands", "Camps", "Weak magic"]
 ## Linked hexes 
 - [Day 1 - 2023-01-01 - Jungle](https://d23.jobo.to/day-1)
 - [Day 3 - 2023-01-03 - Inub, town in ruins](https://d23.jobo.to/day-3)
+- [Day 8 - 2023-01-08 - Ralakoï](../day-8)
 
 
 ## What's going on here?
