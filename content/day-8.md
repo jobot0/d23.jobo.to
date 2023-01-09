@@ -9,6 +9,7 @@ tags=["Ralakoï", "City", "Jungle", "Medium magic"]
 ## Linked hexes
 - [Day 1 - 2023-01-01 - Jungle](../day-1)
 - [Day 2 - 2023-01-02 - Inhabited Mesa](../day-2)
+- [Day 9 - 2023-01-09 - Hills](../day-9)
 
 
 ## What's going on here?
