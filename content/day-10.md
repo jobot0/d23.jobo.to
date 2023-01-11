@@ -10,6 +10,7 @@ tags=["Ralakoï", "Temple", "Jungle", "No magic"]
 - [Day 1 - 2023-01-01 - Jungle](../day-1)
 - [Day 8 - 2023-01-08 - Ralakoï](../day-8)
 - [Day 9 - 2023-01-09 - Hills](../day-9)
+- [Day 11 - 2023-01-11 - River & City](../day-9)
 
 
 ## What's going on here?
