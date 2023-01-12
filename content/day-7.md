@@ -9,6 +9,7 @@ tags=["Swamps", "Wild lands", "Medium magic"]
 ## Linked hexes
 - [Day 1 - 2023-01-01 - Jungle](../day-1)
 - [Day 6 - 2023-01-06 - River & Lake](../day-6)
+- [Day 12 - 2023-01-12 - Plains](../day-12)
 
 
 ## What's going on here?

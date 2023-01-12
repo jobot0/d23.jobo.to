@@ -8,6 +8,7 @@ tags=["Ralakoï", "Temple", "Jungle", "No magic"]
 
 ## Linked hexes
 - [Day 10 - 2023-01-10 - Temple](../day-10)
+- [Day 12 - 2023-01-12 - Plains](../day-12)
 
 
 ## What's going on here?
