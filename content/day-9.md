@@ -9,6 +9,7 @@ tags=["Ralakoï", "Village", "Hills" , "Fields", "Medium magic"]
 ## Linked hexes
 - [Day 8 - 2023-01-08 - Ralakoï](../day-8)
 - [Day 10 - 2023-01-10 - Temple](../day-10)
+- [Day 13 - 2023-01-13 - Swamps](../day-13)
 
 
 ## What's going on here?
