@@ -1,6 +1,6 @@
 +++
 title = "Day 25 - 2023-01-25 - Mysterious monolith"
-date = 2023-01-24
+date = 2023-01-25
 [taxonomies]
 categories=["January", "Swamp", "Village", "Naav Sharan", "Strong magic"]
 tags=["Swamp", "Village", "Naav Sharan", "Strong magic"]
