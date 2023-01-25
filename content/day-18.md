@@ -9,6 +9,7 @@ tags=["Mesa", "Nomads", "No magic"]
 ## Linked hexes
 - [Day 17 - 2023-01-16 - Coast](../day-17)
 - [Day 18 - 2023-01-16 - Mesa village](../day-18)
+- [Day 25 - 2023-01-25 - Mysterious monolith](../day-25)
 
 
 ## What's going on here?
