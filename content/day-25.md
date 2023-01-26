@@ -9,6 +9,7 @@ tags=["Swamp", "Village", "Naav Sharan", "Strong magic"]
 ## Linked hexes
 
 - [Day 18 - 2023-01-18 - Mesa Village](../day-18)
+- [Day 26 - 2023-01-26 - Plains & ruins](../day-26)
 
 
 
