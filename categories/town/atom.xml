@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+	<title> - Town</title>
+	<link href="https://d23.jobo.to/categories/town/atom.xml" rel="self" type="application/atom+xml"/>
+  <link href="https://d23.jobo.to"/>
+	<generator uri="https://www.getzola.org/">Zola</generator>
+	<updated>2023-01-03T00:00:00+00:00</updated>
+	<id>https://d23.jobo.to/categories/town/atom.xml</id>
+	<entry xml:lang="en">
+		<title>Day 3 - 2023-01-03 - Inub, town in ruins</title>
+		<published>2023-01-03T00:00:00+00:00</published>
+		<updated>2023-01-03T00:00:00+00:00</updated>
+		<link rel="alternate" href="https://d23.jobo.to/day-3/" type="text/html"/>
+		<id>https://d23.jobo.to/day-3/</id>
+		<content type="html">&lt;h2 id=&quot;linked-hexes&quot;&gt;Linked hexes&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;..&#x2F;day-2&quot;&gt;Day 2 - 2023-01-02 - Inhabited Mesa&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;..&#x2F;day-4&quot;&gt;Day 4 - 2023-01-04 - Savana&#x2F;plains&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;..&#x2F;day-5&quot;&gt;Day 5 - 2023-01-05 - Desert&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;what-s-going-on-here&quot;&gt;What&#x27;s going on here?&lt;&#x2F;h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;The &lt;strong&gt;Debulen&lt;&#x2F;strong&gt; family was always considered as scavengers or thieves. Their last stop was the old town of &lt;strong&gt;Inub&lt;&#x2F;strong&gt;. They found the ruins so peaceful and full of ancient treasures they chose to stay. Travellers were rarely happy to trade with the gnomes. The most probable reason was this rumor about the ghost of an old wizard haunting the streets at night. Or the fact that all the Debulens &amp;quot;wonders&amp;quot; seemed broken and useless... &lt;&#x2F;p&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;d23.jobo.to&#x2F;day-3&#x2F;..&#x2F;IMG_0128.jpg&quot; alt=&quot;day3&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+</content>
+	</entry>
+</feed>

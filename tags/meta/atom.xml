@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+	<title> - Meta</title>
+	<link href="https://d23.jobo.to/tags/meta/atom.xml" rel="self" type="application/atom+xml"/>
+  <link href="https://d23.jobo.to"/>
+	<generator uri="https://www.getzola.org/">Zola</generator>
+	<updated>2023-01-21T00:00:00+00:00</updated>
+	<id>https://d23.jobo.to/tags/meta/atom.xml</id>
+	<entry xml:lang="en">
+		<title>Week 3 - R&#x27;Gonteh</title>
+		<published>2023-01-21T00:00:00+00:00</published>
+		<updated>2023-01-21T00:00:00+00:00</updated>
+		<link rel="alternate" href="https://d23.jobo.to/week-3/" type="text/html"/>
+		<id>https://d23.jobo.to/week-3/</id>
+		<content type="html">&lt;p&gt;What a week! Not much time to post, and I&#x27;ve discovered some limitations with my drawing software.&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;d23.jobo.to&#x2F;week-3&#x2F;..&#x2F;week3.jpeg&quot; alt=&quot;week3&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>Week 2 - Ralakoï</title>
+		<published>2023-01-14T00:00:00+00:00</published>
+		<updated>2023-01-14T00:00:00+00:00</updated>
+		<link rel="alternate" href="https://d23.jobo.to/week-2/" type="text/html"/>
+		<id>https://d23.jobo.to/week-2/</id>
+		<content type="html">&lt;p&gt;Congrats everyone! We&#x27;ve made it to week 2!&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;d23.jobo.to&#x2F;week-2&#x2F;..&#x2F;week2.jpeg&quot; alt=&quot;week2&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>Week 1 - Wild lands</title>
+		<published>2023-01-07T00:00:00+00:00</published>
+		<updated>2023-01-07T00:00:00+00:00</updated>
+		<link rel="alternate" href="https://d23.jobo.to/week-1/" type="text/html"/>
+		<id>https://d23.jobo.to/week-1/</id>
+		<content type="html">&lt;p&gt;&lt;b&gt;First for all of my readers which are participating to the #dungeon23 challenge, congratulations! We&#x27;re already one week in and that&#x27;s great!&lt;&#x2F;b&gt;&lt;&#x2F;p&gt;
+&lt;p&gt;A quick summary to what&#x27;s rolled this week here. Mostly &lt;strong&gt;Wild lands&lt;&#x2F;strong&gt;, with treacherous tribes and uncanny grounds for our futur travellers! Have a nice second week :)&lt;&#x2F;p&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;d23.jobo.to&#x2F;week-1&#x2F;..&#x2F;week1.jpeg&quot; alt=&quot;week1&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>Entering Dungeon23</title>
+		<published>2023-01-01T00:00:00+00:00</published>
+		<updated>2023-01-01T00:00:00+00:00</updated>
+		<link rel="alternate" href="https://d23.jobo.to/entering-d23-challenge/" type="text/html"/>
+		<id>https://d23.jobo.to/entering-d23-challenge/</id>
+		<content type="html">&lt;h1 id=&quot;quick-intro&quot;&gt;Quick Intro&lt;&#x2F;h1&gt;
+&lt;p&gt;&lt;strong&gt;#Dungeon23&lt;&#x2F;strong&gt; is a writing challenge started by &lt;a href=&quot;https:&#x2F;&#x2F;seanmccoy.substack.com&quot;&gt;Sean McCoy&lt;&#x2F;a&gt; with only one rule:&lt;&#x2F;p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;A dungeon room a day for all of 2023.&lt;&#x2F;p&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;p&gt;I was (like &lt;a href=&quot;https:&#x2F;&#x2F;www.reddit.com&#x2F;r&#x2F;dungeon23&quot;&gt;many&lt;&#x2F;a&gt; &lt;a href=&quot;https:&#x2F;&#x2F;itch.io&#x2F;jam&#x2F;dungeon23&quot;&gt;others&lt;&#x2F;a&gt; in the TTRPG &lt;a href=&quot;https:&#x2F;&#x2F;docs.google.com&#x2F;spreadsheets&#x2F;d&#x2F;1DFM40agQXOrbVhjUoxdbu9NaXcIm6f8Ay52uDWKBHxs&#x2F;edit#gid=2054658407&quot;&gt;community&lt;&#x2F;a&gt;) immediately thrilled! Not only by the nice collective reminder to write a bit everyday for the whole year but also (and mostly) because of the low-pressure vibe of it. You don&#x27;t have the time to write everyday? No problem, let&#x27;s say this room is empty then! You have no idea for this one? Hey check this cool random generator 🎲. &lt;&#x2F;p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;a href=&quot;https:&#x2F;&#x2F;seanmccoy.substack.com&#x2F;p&#x2F;slow-down-youre-doing-fine&quot;&gt;Slow down, you&#x27;re doing fine.&lt;&#x2F;a&gt;&lt;&#x2F;p&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;p&gt;So, let&#x27;s try to write something this year! And what&#x27;s better than a dungeon?&lt;&#x2F;p&gt;
+&lt;h1 id=&quot;owning-the-challenge&quot;&gt;Owning the challenge&lt;&#x2F;h1&gt;
+&lt;p&gt;I&#x27;m trying to create a world where my players could thrive in exploring weird ancient ruins full of lost and dangerous magic. It&#x27;s almost been two years since I&#x27;ve started to write about &lt;strong&gt;The Broken Worlds&lt;&#x2F;strong&gt;. D23 seems a good opportunity to help me with my worldbuilding! So I&#x27;m tweaking a bit the challenge to meet my goal. To help me with that I need some constraints and guides which will ease the whole process. For example, I&#x27;m chosing to map this world in a &amp;quot;giant&amp;quot; hexmap, for two reasons:&lt;&#x2F;p&gt;
+&lt;ol&gt;
+&lt;li&gt;I love Hexmaps&lt;sup class=&quot;footnote-reference&quot;&gt;&lt;a href=&quot;#1&quot;&gt;1&lt;&#x2F;a&gt;&lt;&#x2F;sup&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;It seems to be the perfect format to have self-contained parts to write everyday which can also be &amp;quot;empty&amp;quot;(think about seas, plains etc). &lt;&#x2F;li&gt;
+&lt;&#x2F;ol&gt;
+&lt;p&gt;I&#x27;ll also use random tables I&#x27;m picking here and there to let me explore my own world and expand my thought process (and because I&#x27;m a bit lazy). I will only avoid using random when it makes no sense to me (a major city inside a volcano hex seems to bit a far off for example). I will update this article or create a new one to give all the random tables used!&lt;&#x2F;p&gt;
+&lt;h1 id=&quot;the-process&quot;&gt;The Process&lt;&#x2F;h1&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;cdn.discordapp.com&#x2F;attachments&#x2F;694830169621266505&#x2F;1060144173795254312&#x2F;process.drawio.png&quot; alt=&quot;process&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+&lt;h1 id=&quot;conclusion&quot;&gt;Conclusion&lt;&#x2F;h1&gt;
+&lt;p&gt;It&#x27;s the first time I&#x27;m participating any jam about TTRPG. I&#x27;m pretty happy we&#x27;ll have a year to create something at our own pace. I&#x27;ll try to post daily or at least weekly here. Have fun and happy #Dungeon23 everyone!&lt;&#x2F;p&gt;
+&lt;hr &#x2F;&gt;
+&lt;p&gt;&lt;sup class=&quot;footnote-reference&quot;&gt;&lt;a href=&quot;#1&quot;&gt;1&lt;&#x2F;a&gt;&lt;&#x2F;sup&gt;A small jungle I drew a while back :) 
+&lt;img src=&quot;https:&#x2F;&#x2F;cdn.discordapp.com&#x2F;attachments&#x2F;838768909301448714&#x2F;992054222654799943&#x2F;Jungle_De_Zuh_.jpg&quot; alt=&quot;hexmap_example.jpg&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+</content>
+	</entry>
+</feed>

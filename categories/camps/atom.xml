@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+	<title> - Camps</title>
+	<link href="https://d23.jobo.to/categories/camps/atom.xml" rel="self" type="application/atom+xml"/>
+  <link href="https://d23.jobo.to"/>
+	<generator uri="https://www.getzola.org/">Zola</generator>
+	<updated>2023-01-05T00:00:00+00:00</updated>
+	<id>https://d23.jobo.to/categories/camps/atom.xml</id>
+	<entry xml:lang="en">
+		<title>Day 5 - 2023-01-05 - Desert</title>
+		<published>2023-01-05T00:00:00+00:00</published>
+		<updated>2023-01-05T00:00:00+00:00</updated>
+		<link rel="alternate" href="https://d23.jobo.to/day-5/" type="text/html"/>
+		<id>https://d23.jobo.to/day-5/</id>
+		<content type="html">&lt;h2 id=&quot;linked-hexes&quot;&gt;Linked hexes&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;d23.jobo.to&#x2F;day-3&quot;&gt;Day 3 - 2023-01-03 - Inub, town in ruins&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;d23.jobo.to&#x2F;day-4&quot;&gt;Day 4 - 2023-01-04 - Savana &#x2F; plains&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;d23.jobo.to&#x2F;day-16&quot;&gt;Day 16 - 2023-01-016 - Underground village&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;what-s-going-on-here&quot;&gt;What&#x27;s going on here?&lt;&#x2F;h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;The &lt;strong&gt;Oblique University&lt;&#x2F;strong&gt; never stopped to lavish its knowledge even after the &lt;strong&gt;Great Capharnaüm&lt;&#x2F;strong&gt;. Its buried ruins under a thousand year old desert are treseaure from the ancient past. &lt;strong&gt;The Society of the Illustrous Scholars from R&#x27;gonteh&lt;&#x2F;strong&gt; understood quite rapidly. After decades the minor guild successfully extracted tablets and books lost more than two thousand years ago, proving wrong all its detractors. The expedition quickly transformed itself in a more sedantary camp above the main extraction site. It even has its own tiny library containing probably the region oldest written texts. Population is mostly composed by orcs and humans protecting the small council of goblin scholars. Sometimes some of the warriors try to integrate the closed circle of scientists. For now only one succeed, &lt;strong&gt;Demenos The Bold&lt;&#x2F;strong&gt;, a half-orc. He&#x27;s now the director of Ancient Anatomy Studies.&lt;&#x2F;p&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;d23.jobo.to&#x2F;day-5&#x2F;..&#x2F;day5.jpeg&quot; alt=&quot;day5&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>Day 2 - 2023-01-02 - Inhabited Mesa</title>
+		<published>2023-01-02T00:00:00+00:00</published>
+		<updated>2023-01-02T00:00:00+00:00</updated>
+		<link rel="alternate" href="https://d23.jobo.to/day-2/" type="text/html"/>
+		<id>https://d23.jobo.to/day-2/</id>
+		<content type="html">&lt;h2 id=&quot;linked-hexes&quot;&gt;Linked hexes&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;d23.jobo.to&#x2F;day-1&quot;&gt;Day 1 - 2023-01-01 - Jungle&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;d23.jobo.to&#x2F;day-3&quot;&gt;Day 3 - 2023-01-03 - Inub, town in ruins&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;..&#x2F;day-8&quot;&gt;Day 8 - 2023-01-08 - Ralakoï&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;what-s-going-on-here&quot;&gt;What&#x27;s going on here?&lt;&#x2F;h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;The camp overlooking the forest from the small mesa was no more than a dozen of wooden houses. It was one of this unaligned clan. &lt;strong&gt;The Guhrnogots&lt;&#x2F;strong&gt; were survivors with no chief. They were only following their faith in some wind spirits only heard by them. Most of the families were dwarfs and orcs. There were also trolls and even a minotaur! The youngest were joking about him being more dead than alive...&lt;&#x2F;p&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;d23.jobo.to&#x2F;day-2&#x2F;..&#x2F;IMG_0126.jpg&quot; alt=&quot;day2&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+</content>
+	</entry>
+</feed>

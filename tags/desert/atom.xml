@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+	<title> - Desert</title>
+	<link href="https://d23.jobo.to/tags/desert/atom.xml" rel="self" type="application/atom+xml"/>
+  <link href="https://d23.jobo.to"/>
+	<generator uri="https://www.getzola.org/">Zola</generator>
+	<updated>2023-01-21T00:00:00+00:00</updated>
+	<id>https://d23.jobo.to/tags/desert/atom.xml</id>
+	<entry xml:lang="en">
+		<title>Day 21 - 2023-01-21 - Desert</title>
+		<published>2023-01-21T00:00:00+00:00</published>
+		<updated>2023-01-21T00:00:00+00:00</updated>
+		<link rel="alternate" href="https://d23.jobo.to/day-21/" type="text/html"/>
+		<id>https://d23.jobo.to/day-21/</id>
+		<content type="html">&lt;h2 id=&quot;linked-hexes&quot;&gt;Linked hexes&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;..&#x2F;day-16&quot;&gt;Day 16 - 2023-01-16 - Underground village&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;..&#x2F;day-18&quot;&gt;Day 18 - 2023-01-18 - Mesa Village&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;..&#x2F;day-19&quot;&gt;Day 19 - 2023-01-19 - Forest&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;..&#x2F;day-20&quot;&gt;Day 20 - 2023-01-20 - R&#x27;Gonteh&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;what-s-going-on-here&quot;&gt;What&#x27;s going on here?&lt;&#x2F;h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;A wild land desert.&lt;&#x2F;p&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;d23.jobo.to&#x2F;day-21&#x2F;..&#x2F;day21.jpeg&quot; alt=&quot;day21&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>Day 5 - 2023-01-05 - Desert</title>
+		<published>2023-01-05T00:00:00+00:00</published>
+		<updated>2023-01-05T00:00:00+00:00</updated>
+		<link rel="alternate" href="https://d23.jobo.to/day-5/" type="text/html"/>
+		<id>https://d23.jobo.to/day-5/</id>
+		<content type="html">&lt;h2 id=&quot;linked-hexes&quot;&gt;Linked hexes&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;d23.jobo.to&#x2F;day-3&quot;&gt;Day 3 - 2023-01-03 - Inub, town in ruins&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;d23.jobo.to&#x2F;day-4&quot;&gt;Day 4 - 2023-01-04 - Savana &#x2F; plains&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;https:&#x2F;&#x2F;d23.jobo.to&#x2F;day-16&quot;&gt;Day 16 - 2023-01-016 - Underground village&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;what-s-going-on-here&quot;&gt;What&#x27;s going on here?&lt;&#x2F;h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;The &lt;strong&gt;Oblique University&lt;&#x2F;strong&gt; never stopped to lavish its knowledge even after the &lt;strong&gt;Great Capharnaüm&lt;&#x2F;strong&gt;. Its buried ruins under a thousand year old desert are treseaure from the ancient past. &lt;strong&gt;The Society of the Illustrous Scholars from R&#x27;gonteh&lt;&#x2F;strong&gt; understood quite rapidly. After decades the minor guild successfully extracted tablets and books lost more than two thousand years ago, proving wrong all its detractors. The expedition quickly transformed itself in a more sedantary camp above the main extraction site. It even has its own tiny library containing probably the region oldest written texts. Population is mostly composed by orcs and humans protecting the small council of goblin scholars. Sometimes some of the warriors try to integrate the closed circle of scientists. For now only one succeed, &lt;strong&gt;Demenos The Bold&lt;&#x2F;strong&gt;, a half-orc. He&#x27;s now the director of Ancient Anatomy Studies.&lt;&#x2F;p&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;d23.jobo.to&#x2F;day-5&#x2F;..&#x2F;day5.jpeg&quot; alt=&quot;day5&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+</content>
+	</entry>
+</feed>

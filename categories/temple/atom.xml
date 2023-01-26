@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+	<title> - Temple</title>
+	<link href="https://d23.jobo.to/categories/temple/atom.xml" rel="self" type="application/atom+xml"/>
+  <link href="https://d23.jobo.to"/>
+	<generator uri="https://www.getzola.org/">Zola</generator>
+	<updated>2023-01-11T00:00:00+00:00</updated>
+	<id>https://d23.jobo.to/categories/temple/atom.xml</id>
+	<entry xml:lang="en">
+		<title>Day 11 - 2023-01-11 - River &amp; City</title>
+		<published>2023-01-11T00:00:00+00:00</published>
+		<updated>2023-01-11T00:00:00+00:00</updated>
+		<link rel="alternate" href="https://d23.jobo.to/day-11/" type="text/html"/>
+		<id>https://d23.jobo.to/day-11/</id>
+		<content type="html">&lt;h2 id=&quot;linked-hexes&quot;&gt;Linked hexes&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;..&#x2F;day-10&quot;&gt;Day 10 - 2023-01-10 - Temple&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;..&#x2F;day-12&quot;&gt;Day 12 - 2023-01-12 - Plains&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;..&#x2F;day-13&quot;&gt;Day 13 - 2023-01-13 - Swamps&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;what-s-going-on-here&quot;&gt;What&#x27;s going on here?&lt;&#x2F;h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Ogoshi&lt;&#x2F;strong&gt; has not always been the big city it is now and even less one under the banner of Ralakoï. It was first a fishermen villages then an indenpendent town. It only fell under the siege of the previous king 50 years ago. Ogoshi is mostly composed by humans and dwarves. Before the huge assassination waves ordered by Mahalee, the city was controlled by her nephew. It&#x27;s now one of the queen puppet who rules and answers only to her. Ralakoï nobles like to naviguate close to Ogoshi as a mere distraction. However everyone knows that the river is bad tempered and can be dangerous especially upstream in the wild lands.&lt;&#x2F;p&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;d23.jobo.to&#x2F;day-11&#x2F;..&#x2F;day11.jpeg&quot; alt=&quot;day11&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>Day 10 - 2023-01-10 - Temple</title>
+		<published>2023-01-10T00:00:00+00:00</published>
+		<updated>2023-01-10T00:00:00+00:00</updated>
+		<link rel="alternate" href="https://d23.jobo.to/day-10/" type="text/html"/>
+		<id>https://d23.jobo.to/day-10/</id>
+		<content type="html">&lt;h2 id=&quot;linked-hexes&quot;&gt;Linked hexes&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;..&#x2F;day-1&quot;&gt;Day 1 - 2023-01-01 - Jungle&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;..&#x2F;day-8&quot;&gt;Day 8 - 2023-01-08 - Ralakoï&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;..&#x2F;day-9&quot;&gt;Day 9 - 2023-01-09 - Hills&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;..&#x2F;day-11&quot;&gt;Day 11 - 2023-01-11 - River &amp;amp; City&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;..&#x2F;day-12&quot;&gt;Day 12 - 2023-01-12 - Plains&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;..&#x2F;day-13&quot;&gt;Day 13 - 2023-01-13 - Swamps&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;what-s-going-on-here&quot;&gt;What&#x27;s going on here?&lt;&#x2F;h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;The &lt;strong&gt;High Temple of the 7 Celestials&lt;&#x2F;strong&gt; is the most famous religious institution in Ralakoï. It&#x27;s almost mandatory for nobles from the capital to go there and pray under the &lt;em&gt;Roof of the World tapestry&lt;&#x2F;em&gt;. The temple is the main place where the oracles learn and write for their Books. It also contains the region highest observatory.&lt;&#x2F;p&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;d23.jobo.to&#x2F;day-10&#x2F;..&#x2F;day10.jpeg&quot; alt=&quot;day10&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+</content>
+	</entry>
+</feed>

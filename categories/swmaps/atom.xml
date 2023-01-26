@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+	<title> - Swmaps</title>
+	<link href="https://d23.jobo.to/categories/swmaps/atom.xml" rel="self" type="application/atom+xml"/>
+  <link href="https://d23.jobo.to"/>
+	<generator uri="https://www.getzola.org/">Zola</generator>
+	<updated>2023-01-14T00:00:00+00:00</updated>
+	<id>https://d23.jobo.to/categories/swmaps/atom.xml</id>
+	<entry xml:lang="en">
+		<title>Day 14 - 2023-01-14 - Swamps</title>
+		<published>2023-01-14T00:00:00+00:00</published>
+		<updated>2023-01-14T00:00:00+00:00</updated>
+		<link rel="alternate" href="https://d23.jobo.to/day-14/" type="text/html"/>
+		<id>https://d23.jobo.to/day-14/</id>
+		<content type="html">&lt;h2 id=&quot;linked-hexes&quot;&gt;Linked hexes&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;..&#x2F;day-9&quot;&gt;Day 9 - 2023-01-09 - Hills&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;..&#x2F;day-13&quot;&gt;Day 13 - 2023-01-13 - Swamps&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;what-s-going-on-here&quot;&gt;What&#x27;s going on here?&lt;&#x2F;h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;A small village in the swamps close to Ralakoï. Locals don&#x27;t like people from the city so much however they are always very welcoming with travellers.&lt;&#x2F;p&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;d23.jobo.to&#x2F;day-14&#x2F;..&#x2F;day14.jpeg&quot; alt=&quot;day14&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>Day 13 - 2023-01-13 - Swamps</title>
+		<published>2023-01-13T00:00:00+00:00</published>
+		<updated>2023-01-13T00:00:00+00:00</updated>
+		<link rel="alternate" href="https://d23.jobo.to/day-13/" type="text/html"/>
+		<id>https://d23.jobo.to/day-13/</id>
+		<content type="html">&lt;h2 id=&quot;linked-hexes&quot;&gt;Linked hexes&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;..&#x2F;day-9&quot;&gt;Day 9 - 2023-01-09 - Hills&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;..&#x2F;day-10&quot;&gt;Day 10 - 2023-01-10 - Temple&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;..&#x2F;day-11&quot;&gt;Day 11 - 2023-01-11 - River &amp;amp; City&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;what-s-going-on-here&quot;&gt;What&#x27;s going on here?&lt;&#x2F;h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;Those swamps are considered haunted by Ralakoï citizens. Legends tell it&#x27;s a hag territorry, she&#x27;s lurking to catch reckless travellers.&lt;&#x2F;p&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;d23.jobo.to&#x2F;day-13&#x2F;..&#x2F;day13.jpeg&quot; alt=&quot;day13&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+</content>
+	</entry>
+</feed>

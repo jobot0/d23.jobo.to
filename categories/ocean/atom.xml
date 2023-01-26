@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+	<title> - Ocean</title>
+	<link href="https://d23.jobo.to/categories/ocean/atom.xml" rel="self" type="application/atom+xml"/>
+  <link href="https://d23.jobo.to"/>
+	<generator uri="https://www.getzola.org/">Zola</generator>
+	<updated>2023-01-23T00:00:00+00:00</updated>
+	<id>https://d23.jobo.to/categories/ocean/atom.xml</id>
+	<entry xml:lang="en">
+		<title>Day 23 - 2023-01-23 - Ocean</title>
+		<published>2023-01-23T00:00:00+00:00</published>
+		<updated>2023-01-23T00:00:00+00:00</updated>
+		<link rel="alternate" href="https://d23.jobo.to/day-23/" type="text/html"/>
+		<id>https://d23.jobo.to/day-23/</id>
+		<content type="html">&lt;h2 id=&quot;linked-hexes&quot;&gt;Linked hexes&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;..&#x2F;day-17&quot;&gt;Day 17 - 2023-01-17 - Coast&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;..&#x2F;day-22&quot;&gt;Day 22 - 2023-01-22 - Ocean&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;what-s-going-on-here&quot;&gt;What&#x27;s going on here?&lt;&#x2F;h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;The ocean. Some sailors say they saw weird creatures around here.&lt;&#x2F;p&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;d23.jobo.to&#x2F;day-23&#x2F;..&#x2F;day23.jpeg&quot; alt=&quot;day23&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>Day 22 - 2023-01-22 - Ocean</title>
+		<published>2023-01-22T00:00:00+00:00</published>
+		<updated>2023-01-22T00:00:00+00:00</updated>
+		<link rel="alternate" href="https://d23.jobo.to/day-22/" type="text/html"/>
+		<id>https://d23.jobo.to/day-22/</id>
+		<content type="html">&lt;h2 id=&quot;linked-hexes&quot;&gt;Linked hexes&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;..&#x2F;day-17&quot;&gt;Day 17 - 2023-01-17 - Coast&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;..&#x2F;day-23&quot;&gt;Day 23 - 2023-01-23 - Ocean&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;what-s-going-on-here&quot;&gt;What&#x27;s going on here?&lt;&#x2F;h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;The ocean.&lt;&#x2F;p&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;d23.jobo.to&#x2F;day-22&#x2F;..&#x2F;day22.jpeg&quot; alt=&quot;day22&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+</content>
+	</entry>
+</feed>

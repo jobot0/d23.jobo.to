@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+	<title> - Hills</title>
+	<link href="https://d23.jobo.to/categories/hills/atom.xml" rel="self" type="application/atom+xml"/>
+  <link href="https://d23.jobo.to"/>
+	<generator uri="https://www.getzola.org/">Zola</generator>
+	<updated>2023-01-09T00:00:00+00:00</updated>
+	<id>https://d23.jobo.to/categories/hills/atom.xml</id>
+	<entry xml:lang="en">
+		<title>Day 9 - 2023-01-09 - Hills</title>
+		<published>2023-01-09T00:00:00+00:00</published>
+		<updated>2023-01-09T00:00:00+00:00</updated>
+		<link rel="alternate" href="https://d23.jobo.to/day-9/" type="text/html"/>
+		<id>https://d23.jobo.to/day-9/</id>
+		<content type="html">&lt;h2 id=&quot;linked-hexes&quot;&gt;Linked hexes&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;..&#x2F;day-8&quot;&gt;Day 8 - 2023-01-08 - Ralakoï&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;..&#x2F;day-10&quot;&gt;Day 10 - 2023-01-10 - Temple&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;..&#x2F;day-13&quot;&gt;Day 13 - 2023-01-13 - Swamps&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;what-s-going-on-here&quot;&gt;What&#x27;s going on here?&lt;&#x2F;h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Emerald hills&lt;&#x2F;strong&gt; paddy fields in the south of Ralakoï are strategic for the capital. Indeed, it&#x27;s the main source of food for its population.
+The lake below also brings quite a lot of fish. A legend says a underground water source is the house of beast from ancient times, beings half-men half-frogs...&lt;&#x2F;p&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;d23.jobo.to&#x2F;day-9&#x2F;..&#x2F;day9.jpeg&quot; alt=&quot;day9&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+</content>
+	</entry>
+</feed>

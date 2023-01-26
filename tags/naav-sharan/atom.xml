@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+	<title> - Naav Sharan</title>
+	<link href="https://d23.jobo.to/tags/naav-sharan/atom.xml" rel="self" type="application/atom+xml"/>
+  <link href="https://d23.jobo.to"/>
+	<generator uri="https://www.getzola.org/">Zola</generator>
+	<updated>2023-01-25T00:00:00+00:00</updated>
+	<id>https://d23.jobo.to/tags/naav-sharan/atom.xml</id>
+	<entry xml:lang="en">
+		<title>Day 25 - 2023-01-25 - Mysterious monolith</title>
+		<published>2023-01-25T00:00:00+00:00</published>
+		<updated>2023-01-25T00:00:00+00:00</updated>
+		<link rel="alternate" href="https://d23.jobo.to/day-25/" type="text/html"/>
+		<id>https://d23.jobo.to/day-25/</id>
+		<content type="html">&lt;h2 id=&quot;linked-hexes&quot;&gt;Linked hexes&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;..&#x2F;day-18&quot;&gt;Day 18 - 2023-01-18 - Mesa Village&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;..&#x2F;day-26&quot;&gt;Day 26 - 2023-01-26 - Plains &amp;amp; ruins&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;what-s-going-on-here&quot;&gt;What&#x27;s going on here?&lt;&#x2F;h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;The small of &lt;strong&gt;Seema&lt;&#x2F;strong&gt; is at the westernmost of &lt;strong&gt;Naav Sharan&lt;&#x2F;strong&gt; lands. It&#x27;s located at the edge of mysterious swamps. A scary gigantic monolith covered by runes and moss drives away most of the travellers.
+Rumors say villagers sacrifice them to the rock...&lt;&#x2F;p&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;d23.jobo.to&#x2F;day-25&#x2F;..&#x2F;day25.jpeg&quot; alt=&quot;day25&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+</content>
+	</entry>
+	<entry xml:lang="en">
+		<title>Day 24 - 2023-01-24 - Naav Sharan</title>
+		<published>2023-01-24T00:00:00+00:00</published>
+		<updated>2023-01-24T00:00:00+00:00</updated>
+		<link rel="alternate" href="https://d23.jobo.to/day-24/" type="text/html"/>
+		<id>https://d23.jobo.to/day-24/</id>
+		<content type="html">&lt;h2 id=&quot;linked-hexes&quot;&gt;Linked hexes&lt;&#x2F;h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;..&#x2F;day-5&quot;&gt;Day 5  - 2023-01-05 - Desert&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;..&#x2F;day-16&quot;&gt;Day 16 - 2023-01-16 - Red burrow mines&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;..&#x2F;day-17&quot;&gt;Day 17 - 2023-01-17 - Coast&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;li&gt;&lt;a href=&quot;..&#x2F;day-23&quot;&gt;Day 23 - 2023-01-23 - Ocean&lt;&#x2F;a&gt;&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;h2 id=&quot;what-s-going-on-here&quot;&gt;What&#x27;s going on here?&lt;&#x2F;h2&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;strong&gt;Naav Sharan&lt;&#x2F;strong&gt; is an old colony from a distant empire. It became independent long ago but its inhabitants keep a fierce distrust about strangers.
+The city is now governed by the &lt;strong&gt;Coral Judges&lt;&#x2F;strong&gt;, an assembly of the town most powerful shipowners. 
+Its main resource is coming from the sea. The pearl of Naav Sharan are famous everywhere and are traded for a good amount of gold.&lt;&#x2F;p&gt;
+&lt;&#x2F;blockquote&gt;
+&lt;p&gt;&lt;img src=&quot;https:&#x2F;&#x2F;d23.jobo.to&#x2F;day-24&#x2F;..&#x2F;day24.jpeg&quot; alt=&quot;day24&quot; &#x2F;&gt;&lt;&#x2F;p&gt;
+</content>
+	</entry>
+</feed>
